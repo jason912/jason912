@@ -147,6 +147,13 @@ Time zone:  GMT+8 (follow-the-sun with Europe/Americas)
 Certified:  Niagara 4 Certified · EnOcean Alliance Member
 ```
 
+### Who Trusts Us
+
+| Client | Relationship |
+|--------|-------------|
+| **CBRE** | Niagara system O&M supplier |
+| **JLL** | Niagara system O&M supplier |
+
 ---
 
 ## Contact
