@@ -182,6 +182,7 @@ New to Niagara 4 or looking for tools to extend your station?
 | **Email** | [jason.zhang@gline-net.com](mailto:jason.zhang@gline-net.com) |
 | **WhatsApp** | [+86 1380 190 9968](https://wa.me/8613801909968) |
 | **Web** | [www.glineweb.com](https://www.glineweb.com) |
+| **Tools** | [jason912.github.io](https://jason912.github.io) — Niagara module catalog |
 | **GitHub** | [github.com/jason912](https://github.com/jason912) |
 
 **Have a station that needs attention? Send us a brief description and we'll reply within 24 hours.**
