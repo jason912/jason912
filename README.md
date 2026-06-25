@@ -64,13 +64,24 @@ This means **24-hour coverage** for your stations without paying for 24-hour loc
 
 ### How Remote Access Works
 
-To start remote work, you'll need to provide one of:
+Network security stays in your hands. **You control the access, you stay compliant.**
 
-- ✅ **VPN access** to your network
+To start remote work, your team sets up one of the following (we do not provide or manage VPN services):
+
+- ✅ **VPN access** to your network (your own VPN solution)
 - ✅ **Niagara Fox port** or **Niagara web port** exposed temporarily
-- ✅ **Subsystem access** (BACnet/IP, Modbus TCP, etc.) if we're integrating a specific device
+- ✅ **Subsystem access** (BACnet/IP, Modbus TCP, etc.) if integrating a specific device
 
-We'll guide you through the simplest option — typically a one-time port forward or a quick VPN setup. No permanent changes to your infrastructure.
+> We do not guide or manage your VPN or firewall configuration. Your IT/security team decides what to expose and how. If you need recommendations, we can discuss — but the control remains entirely with you.
+
+### Security & Compliance
+
+| Principle | What It Means |
+|-----------|---------------|
+| **Read-only by default** | All inside-network operations are read-only unless explicitly authorized |
+| **Write requires approval** | Any write operation (set point, rename, delete) requires your prior written approval |
+| **Method Statement & Risk Assessment** | Before any write operation, we provide a detailed method statement and risk assessment for your review and sign-off |
+| **You own the network** | VPN, port exposure, firewall rules — all managed by your team. We never push for permanent changes.
 
 ### Why Remote Works
 
