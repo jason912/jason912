@@ -28,6 +28,28 @@ We act as your **remote Niagara engineering team**. No travel, no delays, no min
 | 🧱 **Custom Module Development** | Need a feature Niagara doesn't have out of the box? We build custom JAR modules — SFTP, REST API, MQTT clients, AI agents, whatever you need. |
 | 🤖 **AI-Assisted Operations** | Automate alarm analysis, generate daily reports, query your station in plain English. Reduce the time your team spends on routine diagnostics. |
 
+### AI-Powered Analysis - No Direct Network Required
+
+We use AI to analyze your Niagara system without needing permanent access to your network. This is especially valuable for clients with strict security policies.
+
+**Offline Analysis (email-based)**
+
+1. Your Niagara station emails us a .bog file (captured by BogSnap at alarm time) or an alarm notification
+2. Our AI analyzes the file - program state, point values, alarm conditions, historical context
+3. You receive an **alarm dashboard** with root cause analysis, trend identification, and actionable recommendations
+4. All done without any network connection to your facility - **zero security exposure**
+
+**On-Premise Analysis (inside your network)**
+
+For clients who want deeper integration, we deploy lightweight analysis tools inside your corporate network:
+
+- Connects via **oBIX**, **REST API**, or ingests **JSON from MQTT**
+- No direct VPN to our office needed - data flows one-way out
+- Builds **automated analysis pipelines** that run continuously
+- Generates alarm dashboards, trend reports, and predictive insights
+
+This transforms a standard Niagara system from a reactive operation to a predictive one - dramatically increasing the value of your existing infrastructure.
+
 ### Time Zone Advantage
 
 We are based in **Asia (GMT+8)**. While your team sleeps, we work.
@@ -39,28 +61,6 @@ We are based in **Asia (GMT+8)**. While your team sleeps, we work.
 | 🕐 **Your afternoon** | **Our night** | Overlapping hours for real-time collaboration |
 
 This means **24-hour coverage** for your stations without paying for 24-hour local engineers. Your day shift handles strategy; our day shift handles execution while you sleep.
-
-### AI-Powered Analysis — No Direct Network Required
-
-We use AI to analyze your Niagara system without needing permanent access to your network. This is especially valuable for clients with strict security policies.
-
-**Offline Analysis (email-based)**
-
-1. Your Niagara station emails us a \`.bog\` file (captured by BogSnap at alarm time) or an alarm notification
-2. Our AI analyzes the file — program state, point values, alarm conditions, historical context
-3. You receive an **alarm dashboard** with root cause analysis, trend identification, and actionable recommendations
-4. All done without any network connection to your facility — **zero security exposure**
-
-**On-Premise Analysis (inside your network)**
-
-For clients who want deeper integration, we deploy lightweight analysis tools inside your corporate network:
-
-- Connects via **oBIX**, **REST API**, or ingests **JSON from MQTT**
-- No direct VPN to our office needed — data flows one-way out
-- Builds **automated analysis pipelines** that run continuously
-- Generates alarm dashboards, trend reports, and predictive insights
-
-This transforms a standard Niagara system from *"it alarms, we react"* to *"it predicts, we prevent"* — dramatically increasing the value of your existing infrastructure.
 
 ### How Remote Access Works
 
