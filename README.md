@@ -28,6 +28,18 @@ We act as your **remote Niagara engineering team**. No travel, no delays, no min
 | 🧱 **Custom Module Development** | Need a feature Niagara doesn't have out of the box? We build custom JAR modules — SFTP, REST API, MQTT clients, AI agents, whatever you need. |
 | 🤖 **AI-Assisted Operations** | Automate alarm analysis, generate daily reports, query your station in plain English. Reduce the time your team spends on routine diagnostics. |
 
+### Time Zone Advantage
+
+We are based in **Asia (GMT+8)**. While your team sleeps, we work.
+
+| Your Time | Our Time | What Happens |
+|-----------|----------|-------------|
+| 🕐 **Your midnight** | **Our noon** | We handle overnight alarms, batch updates, and maintenance windows |
+| 🕐 **Your morning** | **Our evening** | You wake up to a daily report with everything resolved |
+| 🕐 **Your afternoon** | **Our night** | Overlapping hours for real-time collaboration |
+
+This means **24-hour coverage** for your stations without paying for 24-hour local engineers. Your day shift handles strategy; our day shift handles execution while you sleep.
+
 ### How Remote Access Works
 
 To start remote work, you'll need to provide one of:
@@ -45,7 +57,7 @@ We'll guide you through the simplest option — typically a one-time port forwar
 | Schedule 2 weeks out | Connect **today** |
 | Flight + hotel: $2,000–$5,000 | **Zero travel cost** |
 | 1–2 days on site | **2–4 hours** to resolve most issues |
-| Only available 9–5 | **Asia timezone** — we work while you sleep |
+| Only available 9–5 | **Follow-the-sun coverage** |
 
 ---
 
@@ -98,6 +110,7 @@ Founded:    2014
 Focus:      Tridium Niagara ecosystem only
 Team:       Remote-first, Asia-based
 Clients:    Enterprise facilities in Asia, Japan, Europe
+Time zone:  GMT+8 (follow-the-sun with欧美)
 Certified:  Niagara 4 Certified · EnOcean Alliance Member
 ```
 
