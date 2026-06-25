@@ -143,16 +143,9 @@ Founded:    2014
 Focus:      Tridium Niagara ecosystem only
 Team:       Remote-first, Asia-based
 Clients:    Enterprise facilities in Asia, Japan, Europe
-Time zone:  GMT+8 (follow-the-sun with欧美)
+Time zone:  GMT+8 (follow-the-sun with Europe/Americas)
 Certified:  Niagara 4 Certified · EnOcean Alliance Member
 ```
-
-### Who Trusts Us
-
-| Client | Relationship |
-|--------|-------------|
-| **CBRE** | Niagara system O&M supplier |
-| **JLL** | Niagara system O&M supplier |
 
 ---
 
