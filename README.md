@@ -22,10 +22,21 @@ We act as your **remote Niagara engineering team**. No travel, no delays, no min
 
 | Service | What We Do |
 |---------|------------|
-| 🔧 **Remote Commissioning & Debugging** | We connect to your station remotely (VPN / FRPC tunnel / Fox), diagnose issues, and fix them in real time. BACnet, Modbus, MQTT, oBIX — any protocol. |
+| 🔧 **Remote Commissioning & Debugging** | We connect to your station remotely, diagnose issues, and fix them in real time. BACnet, Modbus, MQTT, oBIX — any protocol. |
+| 🧩 **Custom Protocol Integration** | Provide us with the communication point documentation of your legacy device. We use AI-powered tools to rapidly develop the integration interface protocol — no matter how obscure the device. |
 | 🛡️ **Annual Maintenance Retainer** | Fixed monthly fee. Includes remote monitoring, alarm response, performance checkups, and priority access to our engineers. **Recurring, predictable cost.** |
-| 🧩 **Custom Module Development** | Need a feature Niagara doesn't have out of the box? We build custom JAR modules — SFTP, REST API, MQTT clients, AI agents, whatever you need. |
+| 🧱 **Custom Module Development** | Need a feature Niagara doesn't have out of the box? We build custom JAR modules — SFTP, REST API, MQTT clients, AI agents, whatever you need. |
 | 🤖 **AI-Assisted Operations** | Automate alarm analysis, generate daily reports, query your station in plain English. Reduce the time your team spends on routine diagnostics. |
+
+### How Remote Access Works
+
+To start remote work, you'll need to provide one of:
+
+- ✅ **VPN access** to your network
+- ✅ **Niagara Fox port** or **Niagara web port** exposed temporarily
+- ✅ **Subsystem access** (BACnet/IP, Modbus TCP, etc.) if we're integrating a specific device
+
+We'll guide you through the simplest option — typically a one-time port forward or a quick VPN setup. No permanent changes to your infrastructure.
 
 ### Why Remote Works
 
@@ -73,6 +84,7 @@ We publish free, production-tested Niagara 4 modules on GitHub. They serve two p
 | Service | Starting From |
 |---------|:------------:|
 | Remote troubleshooting & debugging | **$200** |
+| Custom protocol / device integration | Contact us |
 | Custom module / JAR development | Contact us |
 | Station migration (AX → N4) | Contact us |
 | System integration & consulting | Contact us |
@@ -101,7 +113,7 @@ Certified:  Niagara 4 Certified · EnOcean Alliance Member
 | **Web** | [www.glineweb.com](https://www.glineweb.com) |
 | **GitHub** | [github.com/jason912](https://github.com/jason912) |
 
-**Have a station that needs attention? Email us a brief description and we'll respond within 24 hours.**
+**Have a station that needs attention? Send us a brief description and we'll reply within 24 hours.**
 
 ---
 
