@@ -1,62 +1,93 @@
-# Shanghai Gline Net Co., Ltd. 🌐
+# 👋 We keep your Niagara stations running.
 
-**Niagara 4 Certified Partner** | Tridium Partner Since 2014
-
-> Remote operations, maintenance, and technical solutions for mission-critical Niagara 4 systems.  
-> Founded by Jason Zhang — focused exclusively on the Tridium Niagara ecosystem.
+**Shanghai Gline Net Co., Ltd.** — Founded by Jason Zhang.  
+Tridium Niagara partner since 2014. Remote operations, maintenance, and engineering for mission-critical Niagara 4 systems.
 
 ---
 
-## What We Do
+## The Problem
 
-| Capability | Description |
-|------------|-------------|
-| **Niagara System Operations & Maintenance** | 24/7 remote monitoring, alarm management, performance optimization, and annual maintenance retainers for enterprise clients across Asia and Europe |
-| **Custom Module & JAR Development** | Bespoke Niagara 4 modules, palettes, services, and extensions — SFTP/SSH, REST API, BACnet, Modbus, and more |
-| **Technical Consulting & Integration** | System architecture, multi-protocol integration (BACnet / Modbus / DALI / MQTT), station migration, troubleshooting, and performance tuning |
-| **AI-Assisted Automation** | Leveraging artificial intelligence for auto-programming, predictive maintenance, data analytics, and smarter building workflows |
+Your Niagara stations are running 24/7. When something breaks — a BACnet device goes offline, an alarm floods the console, a Modbus point stops updating — you need it fixed **now**. But:
 
----
-
-## Our Open Source Niagara Modules
-
-| Module | Description | Price |
-|--------|-------------|:-----:|
-| [Niagara4-MQTTClient](https://github.com/jason912/Niagara4-MQTTClient) | Free MQTT debugging client | 🆓 Free |
-| [Niagara-bogsnap](https://github.com/jason912/Niagara-bogsnap) | Real-time station snapshot tool | 🆓 Free |
-| [Niagara-Rest-API-service](https://github.com/jason912/Niagara-Rest-API-service---Free) | Passwordless REST API for AI automation | 🆓 Free |
-| [Niagara-Station-FTP-Server](https://github.com/jason912/Niagara-Station-FTP-Server---Free) | Built-in FTP server | 🆓 Free |
-| [NiagaraExportBql2json](https://github.com/jason912/NiagaraExportBql2json) | BQL to JSON converter | 🆓 Free |
-| [FreeNiagaraOpenWeatherData](https://github.com/jason912/FreeNiagaraOpenWeatherData) | Free weather data integration | 🆓 Free |
-| [NiagaraSFTP-SSHClient](https://github.com/jason912/NiagaraSFTP-SSHClient) | SFTP & SSH client module | 💰 $99 |
-| [Niagara-4-FRPC-Module](https://github.com/jason912/Niagara-4-FRPC-Module) | Remote tunnel for NAT/firewall | 💰 $149 |
-| [Niagara_AIbot_Agent](https://github.com/jason912/Niagara_AIbot_Agent) | AI agent for natural language queries | 💰 $299 |
-| [niagara-automatic-backup-and-email](https://github.com/jason912/niagara-automatic-backup-and-email) | Free backup automation script | 🆓 Free |
+- Your best Niagara engineer is booked on another project
+- Flying someone to site costs thousands and takes days
+- The local integrator who installed it is long gone
+- You don't have a maintenance contract, and when you call someone it's emergency rates
 
 ---
 
-## Why Enterprise Clients Choose Us
+## Our Solution: Remote Niagara O&M
 
-```
-15+ Years     Deep Niagara ecosystem expertise
-Global        Serving Asia, Japan, Europe
-Tridium       Direct engineering collaboration
-End-to-End    Design, build, run, optimize
-Proven        Deployed on live enterprise systems
-```
+We act as your **remote Niagara engineering team**. No travel, no delays, no minimum commitment.
+
+| Service | What We Do |
+|---------|------------|
+| 🔧 **Remote Commissioning & Debugging** | We connect to your station remotely (VPN / FRPC tunnel / Fox), diagnose issues, and fix them in real time. BACnet, Modbus, MQTT, oBIX — any protocol. |
+| 🛡️ **Annual Maintenance Retainer** | Fixed monthly fee. Includes remote monitoring, alarm response, performance checkups, and priority access to our engineers. **Recurring, predictable cost.** |
+| 🧩 **Custom Module Development** | Need a feature Niagara doesn't have out of the box? We build custom JAR modules — SFTP, REST API, MQTT clients, AI agents, whatever you need. |
+| 🤖 **AI-Assisted Operations** | Automate alarm analysis, generate daily reports, query your station in plain English. Reduce the time your team spends on routine diagnostics. |
+
+### Why Remote Works
+
+| Traditional On-site | Gline Remote |
+|---|---|
+| Schedule 2 weeks out | Connect **today** |
+| Flight + hotel: $2,000–$5,000 | **Zero travel cost** |
+| 1–2 days on site | **2–4 hours** to resolve most issues |
+| Only available 9–5 | **Asia timezone** — we work while you sleep |
 
 ---
 
-## Services & Pricing
+## Proof of Capability: Our Free Modules
+
+We publish free, production-tested Niagara 4 modules on GitHub. They serve two purposes:
+
+1. **They solve real problems** — use them today, zero cost
+2. **They prove we know what we're doing** — inspect the code, test the JARs, see the quality
+
+| Module | What It Shows |
+|--------|---------------|
+| [BogSnap](https://github.com/jason912/Niagara-bogsnap) | Deep understanding of Niagara program objects, BQL, and station internals |
+| [REST API](https://github.com/jason912/Niagara-Rest-API-service---Free) | We build production-grade REST endpoints for AI automation |
+| [MQTT Client](https://github.com/jason912/Niagara4-MQTTClient) | We write reliable protocol drivers |
+| [FRPC Tunnel](https://github.com/jason912/Niagara-4-FRPC-Module) | We solve real-world remote access problems |
+| [BQL→JSON](https://github.com/jason912/NiagaraExportBql2json) | We bridge Niagara data with modern application stacks |
+| [SFTP/SSH Client](https://github.com/jason912/NiagaraSFTP-SSHClient) | We build secure, enterprise-grade integrations |
+
+> **All free to use. No license, no trial, no upsell.** If they help you, great. If you need something custom, call us.
+
+---
+
+## Pricing
+
+### Annual Maintenance Retainer (Recurring)
+
+| Plan | Monthly | What's Included |
+|------|:-------:|-----------------|
+| 🟢 **Essential** | Contact us | Remote monitoring, alarm response (8×5), quarterly health check |
+| 🔵 **Professional** | Contact us | Everything in Essential + priority response (24×7), monthly reporting |
+| 🏢 **Enterprise** | Contact us | Dedicated engineer, custom SLA, on-site option |
+
+### One-Time Services
 
 | Service | Starting From |
 |---------|:------------:|
-| Custom Niagara 4 module / JAR development | Contact us |
-| Remote station monitoring & maintenance | Contact us |
+| Remote troubleshooting & debugging | **$200** |
+| Custom module / JAR development | Contact us |
+| Station migration (AX → N4) | Contact us |
 | System integration & consulting | Contact us |
-| AI automation & custom pipeline | Contact us |
 
-> Every project is different — contact us with your requirements and we'll provide a tailored quote.
+---
+
+## About Us
+
+```
+Founded:    2014
+Focus:      Tridium Niagara ecosystem only
+Team:       Remote-first, Asia-based
+Clients:    Enterprise facilities in Asia, Japan, Europe
+Certified:  Niagara 4 Certified · EnOcean Alliance Member
+```
 
 ---
 
@@ -70,8 +101,8 @@ Proven        Deployed on live enterprise systems
 | **Web** | [www.glineweb.com](https://www.glineweb.com) |
 | **GitHub** | [github.com/jason912](https://github.com/jason912) |
 
-*Niagara 4 Certified · EnOcean Alliance Member*
+**Have a station that needs attention? Email us a brief description and we'll respond within 24 hours.**
 
 ---
 
-*This profile is maintained by Shanghai Gline Net Co., Ltd. Confidential — Capabilities Overview.*
+*Shanghai Gline Net Co., Ltd. — Remote Niagara Engineering & Operations*
