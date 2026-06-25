@@ -156,6 +156,24 @@ Certified:  Niagara 4 Certified · EnOcean Alliance Member
 
 ---
 
+---
+
+## Getting Started with Niagara Development
+
+New to Niagara 4 or looking for tools to extend your station?
+
+| If you want to... | Start here |
+|-------------------|------------|
+| 🔧 **Install a custom JAR module** | [Installation Guide](https://github.com/jason912/How-to-install-Gline-Jar-modules) |
+| 📡 **Debug MQTT communication** | [Free MQTT Client](https://github.com/jason912/Niagara4-MQTTClient) |
+| 📸 **Capture station state on alarm** | [BogSnap - Real-time Snapshot](https://github.com/jason912/Niagara-bogsnap) |
+| 🔄 **Export BQL data as JSON** | [BQL to JSON Converter](https://github.com/jason912/NiagaraExportBql2json) |
+| 🆓 **Add FTP server to your station** | [Free FTP Server](https://github.com/jason912/Niagara-Station-FTP-Server---Free) |
+| 🤖 **Automate Niagara with AI** | [AI Automation Sample](https://github.com/jason912/Niagara-AI-Automation-Sample) |
+| 💰 **Buy a commercial module** | [SFTP/SSH Client $99](https://github.com/jason912/NiagaraSFTP-SSHClient) · [FRPC Tunnel $149](https://github.com/jason912/Niagara-4-FRPC-Module) · [AI Agent $299](https://github.com/jason912/Niagara_AIbot_Agent) |
+
+**All free tools are open source and ready to use.**
+
 ## Contact
 
 | | |
