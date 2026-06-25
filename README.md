@@ -2,7 +2,8 @@
 
 **Niagara 4 Certified Partner** | Tridium Partner Since 2014
 
-> Remote operations, maintenance, and technical solutions for mission-critical Niagara 4 systems.
+> Remote operations, maintenance, and technical solutions for mission-critical Niagara 4 systems.  
+> Founded by Jason Zhang — focused exclusively on the Tridium Niagara ecosystem.
 
 ---
 
@@ -19,8 +20,8 @@
 
 ## Our Open Source Niagara Modules
 
-| Module | Description | Status |
-|--------|-------------|--------|
+| Module | Description | Price |
+|--------|-------------|:-----:|
 | [Niagara4-MQTTClient](https://github.com/jason912/Niagara4-MQTTClient) | Free MQTT debugging client | 🆓 Free |
 | [Niagara-bogsnap](https://github.com/jason912/Niagara-bogsnap) | Real-time station snapshot tool | 🆓 Free |
 | [Niagara-Rest-API-service](https://github.com/jason912/Niagara-Rest-API-service---Free) | Passwordless REST API for AI automation | 🆓 Free |
@@ -46,11 +47,24 @@ Proven        Deployed on live enterprise systems
 
 ---
 
+## Services & Pricing
+
+| Service | Starting From |
+|---------|:------------:|
+| Custom Niagara 4 module / JAR development | Contact us |
+| Remote station monitoring & maintenance | Contact us |
+| System integration & consulting | Contact us |
+| AI automation & custom pipeline | Contact us |
+
+> Every project is different — contact us with your requirements and we'll provide a tailored quote.
+
+---
+
 ## Contact
 
 | | |
 |---|-----|
-| **Jason Zhang** | Managing Director |
+| **Jason Zhang** | Founder & Managing Director |
 | **Email** | [jason.zhang@gline-net.com](mailto:jason.zhang@gline-net.com) |
 | **WhatsApp** | [+86 1380 190 9968](https://wa.me/8613801909968) |
 | **Web** | [www.glineweb.com](https://www.glineweb.com) |
